@@ -1,0 +1,5 @@
+Credentials cache: API:7636A554-1B78-415E-BF32-F9EB4F80621F
+        Principal: calle@42.FR
+
+  Issued                Expires               Principal
+Jun 29 14:39:13 2020  Jul  6 14:38:05 2020  krbtgt/42.FR@42.FR
